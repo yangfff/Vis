@@ -49,7 +49,8 @@ eg:[Aaron Koblin, TED 2006]("http://www.aaronkoblin.com/work/flightpatterns")
 - Uses perception to offload cognition
 - Serves as an external aid to augment working memory
 - Boosts our cognitive abilities
-###2、Visualization is hot & cool & young
+
+###2、Visualization is hot & cool & young###
 ---
 **2.1 Top VIS Conferences**
 
@@ -72,7 +73,7 @@ eg:[Aaron Koblin, TED 2006]("http://www.aaronkoblin.com/work/flightpatterns")
 - [蚂蚁金服DT时代新布局：可视化神器G2]("https://g2.alipay.com")
 - [Baidu EChart]("https://www.echartsjs.com/")
 
-###3、How to create visualization?
+###3、How to create visualization?###
 ---
 
 **3.1 Act I: Foundations**
